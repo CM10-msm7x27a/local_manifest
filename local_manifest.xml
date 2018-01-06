@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/lge/e400" name="CM10-msm7x27a/android_device_lge_e400" revision="jellybean" />
+    <project path="kernel/lge/e400" name="CM10-msm7x27a/lge-kernel-e400" revision="jellybean" />
+    <project path="vendor/lg/e400" name="CM10-msm7x27a/vendor_lge_e400" revision="jellybean" />
+</manifest>
